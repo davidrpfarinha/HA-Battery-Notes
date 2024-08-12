@@ -1,4 +1,4 @@
-## 1116 Devices in library
+## 1121 Devices in library
 
 This file is auto generated, do not modify
 
@@ -494,6 +494,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |Iris                                            |Contact and temperature sensor (IL06_1)                                    |CR2                                |                   |                                      |
 |Iris                                            |iL07-01                                                                    |CR123                              |                   |                                      |
 |Iris                                            |Motion and temperature sensor (3326-L)                                     |CR2                                |                   |                                      |
+|Iris                                            |Motion Sensor (iL07_1)                                                     |CR123A                             |                   |                                      |
 |iRobot                                          |c975840                                                                    |Rechargeable                       |                   |                                      |
 |iRobot                                          |i715640                                                                    |Rechargeable                       |                   |                                      |
 |Konke                                           |3AFE28010402000D                                                           |CR2450                             |                   |                                      |
@@ -541,6 +542,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |LUMI                                            |lumi.remote.b286opcn01                                                     |CR2032                             |                   |                                      |
 |LUMI                                            |lumi.remote.b486opcn01                                                     |CR2032                             |                   |                                      |
 |LUMI                                            |lumi.remote.b686opcn01                                                     |CR2032                             |                   |                                      |
+|LUMI                                            |lumi.sen_ill.agl01                                                         |CR2450                             |                   |                                      |
 |LUMI                                            |lumi.sen_ill.mgl01                                                         |CR2450                             |                   |                                      |
 |LUMI                                            |lumi.sensor_86sw1                                                          |CR2032                             |                   |                                      |
 |LUMI                                            |lumi.sensor_cube                                                           |CR2450                             |                   |                                      |
@@ -680,6 +682,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |Ring                                            |Peephole Cam                                                               |Rechargeable                       |                   |                                      |
 |Ring                                            |Security Keypad                                                            |Rechargeable                       |                   |                                      |
 |Ring                                            |Spotlight Cam Plus                                                         |Rechargeable                       |                   |                                      |
+|Ring                                            |Stick Up Cam (3rd Gen)                                                     |Rechargeable                       |                   |                                      |
 |ROBB smarrt                                     |ROB_200-024-0                                                              |CR2032                             |                   |                                      |
 |Roborock                                        |roborock.vacuum.a15                                                        |Rechargeable                       |                   |                                      |
 |rtl_433                                         |Acurite-515                                                                |2× AA                              |                   |                                      |
@@ -864,6 +867,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |Third Reality, Inc                              |3RTHS24BZ                                                                  |2× AAA                             |                   |                                      |
 |Third Reality, Inc                              |3RVS01031Z                                                                 |2× AAA                             |                   |                                      |
 |Third Reality, Inc                              |3RWS18BZ                                                                   |2× AAA                             |                   |                                      |
+|Tile                                            |T1101                                                                      |Cr2032                             |                   |                                      |
 |Tile                                            |T1301N                                                                     |CR2032                             |                   |                                      |
 |Trust                                           |COSensor-EM                                                                |CR123A                             |                   |                                      |
 |Trust                                           |Smoke detector (ZSDR-850)                                                  |CR123A                             |                   |                                      |
@@ -920,6 +924,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |TuYa                                            |Smart button (IH-K663)                                                     |CR2032                             |                   |                                      |
 |TuYa                                            |Smart button (MINI-ZSB)                                                    |CR2032                             |                   |                                      |
 |TuYa                                            |Smart knob (ERS-10TZBVK-AA)                                                |CR2032                             |                   |                                      |
+|Tuya                                            |Smart pet feeder AL                                                        |4× AA                              |xaw628wk93zqlr80   |                                      |
 |Tuya                                            |Smoke Alarm (gymi8xdlnxtpslit)                                             |CR123A                             |                   |                                      |
 |Tuya                                            |Smoke Detector (lsjnzox4skgduemo)                                          |PP3                                |                   |                                      |
 |TuYa                                            |Smoke sensor (TS0205)                                                      |CR123                              |                   |                                      |
