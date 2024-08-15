@@ -1,4 +1,4 @@
-## 1121 Devices in library
+## 1129 Devices in library
 
 This file is auto generated, do not modify
 
@@ -74,6 +74,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |_TZE200_yjjdcqsq                                |TS0601                                                                     |2× AAA                             |                   |                                      |
 |_TZE200_znbl8dj5                                |TS0601                                                                     |CR2032                             |                   |                                      |
 |_TZE204_t1blo2bj                                |TS0601                                                                     |2× CR123A                          |                   |                                      |
+|ABUS Security-Center GmbH Co. KG                |SHRM10000                                                                  |CR123A                             |                   |                                      |
 |Adaprox                                         |TS0001_fingerbot_1                                                         |CR2                                |                   |                                      |
 |Adaprox                                         |Zigbee fingerbot plus (TS0001_fingerbot_1)                                 |CR2                                |                   |                                      |
 |ADEO                                            |RGB CTT LEXMAN ENKI remote control (HR-C99C-Z-C045)                        |CR2450                             |                   |                                      |
@@ -154,6 +155,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |Aqara                                           |Temperature and humidity sensor (WSDCGQ11LM)                               |CR2032                             |                   |                                      |
 |Aqara                                           |Vibration sensor (DJT11LM)                                                 |CR2032                             |                   |                                      |
 |Aqara                                           |Water leak sensor (SJCGQ11LM)                                              |CR2032                             |                   |                                      |
+|Aqara                                           |Water leak sensor T1                                                       |CR2032                             |SJCGQ12LM          |                                      |
 |Aqara                                           |Wireless mini switch (WXKG11LM)                                            |CR2032                             |                   |                                      |
 |Aqara                                           |Wireless remote switch H1 (double rocker) (WXKG15LM)                       |CR2450                             |                   |                                      |
 |Aqara                                           |WSDCGQ11LM                                                                 |CR2032                             |                   |                                      |
@@ -275,6 +277,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |Elro                                            |Fire alarm                                                                 |2× AA                              |                   |                                      |
 |Elro                                            |Heat alarm                                                                 |2× AA                              |                   |                                      |
 |Elro                                            |TEMPERATURE_SENSOR                                                         |2× AA                              |                   |                                      |
+|Ember                                           |Ember Mug 2 (14oz)                                                         |Rechargeable                       |                   |                                    10|
 |eQ-3                                            |HM-CC-RT-DN                                                                |2× AA                              |                   |                                      |
 |eQ-3                                            |HM-Dis-EP-WM55                                                             |2× AAA                             |                   |                                      |
 |eQ-3                                            |HM-ES-TX-WM                                                                |4× AA                              |                   |                                      |
@@ -454,6 +457,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |IKEA                                            |STYRBAR remote control (E2001/E2002)                                       |2× AAA                             |                   |                                      |
 |IKEA                                            |SYMFONISK sound controller (E1744)                                         |CR2032                             |                   |                                      |
 |IKEA                                            |SYMFONISK sound remote gen2 (E2123)                                        |2× AAA                             |                   |                                      |
+|Ikea                                            |SYMFONISK Sound remote, gen 2                                              |2× AAA                             |E2123              |                                      |
 |IKEA                                            |TRADFRI motion sensor                                                      |2× CR2032                          |                   |                                      |
 |IKEA                                            |TRADFRI motion sensor (E1525/E1745)                                        |2× CR2032                          |                   |                                      |
 |IKEA                                            |TRADFRI ON/OFF switch (E1743)                                              |CR2032                             |                   |                                      |
@@ -614,6 +618,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |Nyce                                            |Door/window sensor (NCZ-3011-HA)                                           |CR2032                             |                   |                                      |
 |Onvis                                           |CT3                                                                        |CR2450                             |                   |                                      |
 |Onvis                                           |HS2                                                                        |CR2450                             |                   |                                      |
+|OpenEpaperLink                                  |M2 1.54                                                                    |CR2450                             |                   |                                      |
 |OpenEpaperLink                                  |M2 2.9                                                                     |2× CR2450                          |                   |                                      |
 |OpenEpaperLink                                  |M3 2.9                                                                     |2× CR2450                          |                   |                                      |
 |OpenEpaperLink                                  |ST‐GR16000 1.54                                                            |CR2450                             |                   |                                      |
@@ -628,8 +633,10 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |Orbit BHyve                                     |HT32-0001                                                                  |2× AA                              |                   |                                      |
 |Orbit BHyve                                     |HT34-0001                                                                  |2× AA                              |                   |                                      |
 |ORVIBO                                          |e70f96b3773a4c9283c6862dbafb6a99                                           |CR2032                             |                   |                                      |
+|OSRAM                                           |Lightify Switch Mini                                                       |CR2450                             |                   |                                      |
 |OSRAM                                           |SMART+ Motion Sensor (AC01353010G)                                         |CR2                                |                   |                                      |
 |OSRAM                                           |Smart+ switch mini (AC0251100NJ/AC0251600NJ/AC0251700NJ)                   |CR2450                             |                   |                                      |
+|OSRAM                                           |Switch 4x EU-LIGHTIFY                                                      |CR2450                             |                   |                                      |
 |OWON                                            |THS317-ET                                                                  |2× AAA                             |                   |                                      |
 |Paulmann                                        |Smart switch 4 buttons white (501.34)                                      |CR2450                             |                   |                                      |
 |Perenio                                         |PECWS01                                                                    |CR2032                             |                   |                                      |
@@ -974,6 +981,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |TuYa                                            |Zigbee water leak sensor (TS0207_water_leak_detector_2)                    |CR2032                             |                   |                                      |
 |Tuya                                            |zqeaw7pi                                                                   |2× AAA                             |                   |                                      |
 |TuYa                                            |ZTH08-E                                                                    |3× AAA                             |                   |                                      |
+|TUYATEC-riuj5xzs                                |RH3052                                                                     |CR2032                             |                   |                                      |
 |TUYATEC-xrvzm3yI                                |RH3001                                                                     |CR2032                             |                   |                                      |
 |TUYATEC-yg5dcbfu                                |RH3052                                                                     |CR2032                             |                   |                                      |
 |Ultraloq                                        |U-BOLT-PRO-ZWAVE                                                           |4× AA                              |                   |                                      |
